@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sab",
+  "name": "Sneak Animation Backport",
+  "description": "They made me create this for Discord Nitro. Getting underpaid since 1942.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["geza3D"],
+  "credits": "Suicide Hotline",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
